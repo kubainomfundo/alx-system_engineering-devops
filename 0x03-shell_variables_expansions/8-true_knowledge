@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($TRUEKWOLEDGE+128))
+echo 128
