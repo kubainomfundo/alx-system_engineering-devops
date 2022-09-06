@@ -1,2 +1,5 @@
 #!/bin/bash
-printenv
+<<<<<<< HEAD
+echo $PATH | tr "." "\n" | wc -1
+=======
+echo $PATH | tr "." "\n" | wc -1
